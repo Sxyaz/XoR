@@ -42,7 +42,7 @@ A lot of games are using XOR to protect their values.
 What happens if you edit a value without xoring? Crash.
 
 <h2> Integer XORs in GG </h2>
-Integer values can easily be edited. Ussualy their Key and Encrypted value matchs.
+Integer values can easily be edited. Usually their Key and Encrypted value matchs.
 <table>
   <thead>
     <tr>
